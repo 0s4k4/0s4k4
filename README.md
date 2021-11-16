@@ -1,6 +1,6 @@
 - 👋Hola Mi Nombre es Jorge Luis Piña
 - 👀 Me interesa la informatica, electronica, programacion y hacking
-- 🌱 Hactualmente estoy aprendiendo desarollo fullstack
+- 🌱 Actualmente estoy aprendiendo desarollo fullstack
 
 ------------------------💻 Stack de tecnologias que manejo----------------------------
 
