@@ -16,7 +16,7 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- 📖  Breve biografia:":              "Ingeniero en TI, tengo 24 años, fan del anime, manga, tecnologia, y videojuegos",
-    "- ⚡  Skills :":                      "Programacion, Electronica, Redes, Soporte IT, Hacking",
+                "- ⚡  Skills :":                      "Programacion, Electronica, Redes, Soporte IT, Hacking",
 		"- 🔭 Actualmente trabajo en":          "Programador web en copizza",
 		"- 🌱 Actualmente estoy aprendiendo":   "Javascript a nivel fullstack, php con laravel y mongoDB)",
 }
